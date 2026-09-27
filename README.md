@@ -220,4 +220,4 @@ SoftPerfect Network Scanner is the full free version, offering all features and 
 Ready to take control of your network? **Download SoftPerfect Network Scanner FREE today and experience complete network management!**
 
 ---
-**Last updated:** 2026-09-26 21:46:10 UTC
+**Last updated:** 2026-09-27 00:09:16 UTC
